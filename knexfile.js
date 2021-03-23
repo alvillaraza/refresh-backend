@@ -41,7 +41,6 @@ module.exports = {
         },
         seeds: {
             directory: './data/seeds'
-        },
-        ssl: true
+        }
     }
 };
